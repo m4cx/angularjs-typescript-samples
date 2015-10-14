@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		
+	},
+	"filesGlob": [
+		"typings/**/*.d.ts",
+		"src/**/*.ts",
+		"!src/lib"
+	]
+}
